@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **PHP-Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akara44](https://github.com/Muhammed-Kara)
+- 👨‍💻 All of my projects are available at [https://github.com/Muhammed-Kara](https://github.com/Muhammed-Kara)
 
 - 💬 Ask me about **WEB DESİNG**
 
