@@ -5,8 +5,6 @@
 
 - I’m currently working on **Vue.js 3**
 
-- I’m currently learning **Nuxt.js**
-
 - All of my projects are available at [https://github.com/Muhammed-Kara](https://github.com/Muhammed-Kara)
 
 - Ask me about **WEB DESİNG**
