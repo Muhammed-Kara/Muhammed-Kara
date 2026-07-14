@@ -38,6 +38,14 @@
 ![Vue Router](https://img.shields.io/badge/vue%20router-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=for-the-badge&logo=pinia&logoColor=black)
 ![Axios](https://img.shields.io/badge/axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Fetch API](https://img.shields.io/badge/fetch%20api-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dummy JSON](https://img.shields.io/badge/dummy%20json-%23FF6C37.svg?style=for-the-badge&logo=json&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/primevue-%2341B883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![npx](https://img.shields.io/badge/npx-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -57,33 +65,18 @@
  <br />
  
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Kara&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="akara44" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Kara&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
   
 <br />
 
-
- 
- <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Kara&theme=material-palenight&hide_border=false" alt="akara44" width="55%" />
-</p>
- 
-
- 
- <br />
- 
-  
-  
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Kara&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="akara44" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Kara&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
  
   
   
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akara44&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/akara44/github-readme-stats)
--->
 
 
 <br />
@@ -96,7 +89,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Kara&theme=react-dark&hide_border=false" alt="Muhammed-Kara activity graph" width="100%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-Kara&theme=react-dark&hide_border=false" alt="Muhammed-Kara activity graph" width="65%" />
 </p>
 
 <br />
