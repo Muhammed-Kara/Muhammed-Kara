@@ -65,32 +65,13 @@
 
 
 
-# Github Stats
 
- <br />
- 
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Kara&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-  
-<br />
-
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Kara&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
  
   
   
 
 
 <br />
-
-![](https://github-profile-trophy.vercel.app/?username=Muhammed-Kara&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-
 # Activity Graph
 
 <p align="center">
