@@ -34,6 +34,27 @@ jobs:
           games: pacman
           hide_month_labels: "false"
 
+      - name: remove Pac-Man maze walls
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          wall_pattern = re.compile(r'<rect id="w[hv]-[^"]+"[^>]*></rect>')
+          files = list(Path("dist").glob("pacman-contribution-graph*.svg"))
+
+          if not files:
+              raise RuntimeError("Pac-Man SVG files were not generated")
+
+          for path in files:
+              svg = path.read_text(encoding="utf-8")
+              cleaned, removed = wall_pattern.subn("", svg)
+              if removed == 0:
+                  raise RuntimeError(f"No maze walls found in {path}")
+              path.write_text(cleaned, encoding="utf-8")
+              print(f"Removed {removed} maze walls from {path}")
+          PY
+
       - name: push contribution animations to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
