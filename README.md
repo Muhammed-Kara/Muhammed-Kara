@@ -60,7 +60,15 @@
 
 
 
-![My GitHub Game](game.gif)
+<div align="center">
+  <img src="game.gif" alt="My GitHub Game" width="100%" />
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-Kara/Muhammed-Kara/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammed-Kara/Muhammed-Kara/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Muhammed-Kara/Muhammed-Kara/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+  </picture>
+</div>
 
 
 # Activity Graph

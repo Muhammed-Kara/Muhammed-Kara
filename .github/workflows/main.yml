@@ -1,4 +1,4 @@
-name: generate contribution snake
+name: generate contribution animations
 
 on:
   schedule:
@@ -26,7 +26,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push contribution snake to the output branch
+      - name: generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PROFILE_TOKEN }}
+          games: pacman
+          hide_month_labels: "false"
+
+      - name: push contribution animations to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
